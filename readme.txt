@@ -1,4 +1,4 @@
-git is a distributed  version control system.
+ï»¿git is a distributed  version control system.
 git is free software1 distributed under the GPL..
 diff
 Git has a mutable index called stage
@@ -10,5 +10,5 @@ Creating a new branch is quick and simple.
 hello1111111
 two hellow
 three hello
-µÚËÄ¸ö hello
-µÚÎå¸ö hello
+ç¬¬å››ä¸ª hello
+ç¬¬äº”ä¸ª hello1
